@@ -1,0 +1,72 @@
+[
+  {
+    "id": "splat_bomb",
+    "name": "スプラッシュボム",
+    "name_en": "SPLAT BOMB"
+  },
+  {
+    "id": "suction_bomb",
+    "name": "キューバンボム",
+    "name_en": "SUCTION BOMB"
+  },
+  {
+    "id": "fizzy_bomb",
+    "name": "タンサンボム",
+    "name_en": "FIZZY BOMB"
+  },
+  {
+    "id": "curling_bomb",
+    "name": "カーリングボム",
+    "name_en": "CURLING BOMB"
+  },
+  {
+    "id": "burst_bomb",
+    "name": "クイックボム",
+    "name_en": "BURST BOMB"
+  },
+  {
+    "id": "auto_bomb",
+    "name": "ロボットボム",
+    "name_en": "AUTO BOMB"
+  },
+  {
+    "id": "torpedo",
+    "name": "トーピード",
+    "name_en": "TORPEDO"
+  },
+  {
+    "id": "sprinkler",
+    "name": "スプリンクラー",
+    "name_en": "SPRINKLER"
+  },
+  {
+    "id": "splash_wall",
+    "name": "スプラッシュシールド",
+    "name_en": "SPLASH WALL"
+  },
+  {
+    "id": "ink_mine",
+    "name": "トラップ",
+    "name_en": "INK MINE"
+  },
+  {
+    "id": "angle_shooter",
+    "name": "ラインマーカー",
+    "name_en": "ANGLE SHOOTER"
+  },
+  {
+    "id": "poison_mist",
+    "name": "ポイズンミスト",
+    "name_en": "POISON MIST"
+  },
+  {
+    "id": "squid_beakon",
+    "name": "ジャンプビーコン",
+    "name_en": "SQUID BEAKON"
+  },
+  {
+    "id": "point_sensor",
+    "name": "ポイントセンサー",
+    "name_en": "POINT SENSOR"
+  }
+]
