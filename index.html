@@ -1,23 +1,83 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>Splatoon Database</title>
-  <link rel="stylesheet" href="resource/css/base.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<main>
-  <h1>Splatoon Database</h1>
+    <title>Splatoon Database</title>
 
-  <nav>
-    <ul>
-      <li><a href="weapons/index.html">ブキ一覧</a></li>
-      <li><a href="stages/index.html">ステージ一覧</a></li>
-      <li><a href="gears/index.html">ギア一覧</a></li>
-    </ul>
-  </nav>
-</main>
+    <link rel="stylesheet" href="resource/css/base.css" />
+  </head>
 
-</body>
+  <body>
+    <header class="header">
+      <div class="container">
+        <a href="index.html" class="logo"> Splatoon Database </a>
+
+        <nav class="nav">
+          <a href="resource/pages/weapons.html">ブキ</a>
+          <a href="#">ギア</a>
+          <a href="#">ステージ</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container">
+          <p class="hero-subtitle">SPLATOON INFORMATION,<br />ALL IN ONE PLACE.</p>
+
+          <h1>
+            Splatoon<br />
+            Database
+          </h1>
+
+          <p class="hero-description">Splatoonシリーズのデータベース</p>
+
+          <div class="search">
+            <input type="search" placeholder="検索..." />
+            <button type="button">検索</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="categories">
+        <div class="container">
+          <h2>Database</h2>
+
+          <div class="category-list">
+            <a href="resource/pages/weapons.html" class="category">
+              <span>01</span>
+              <div>
+                <h3>ブキ</h3>
+                <p>ブキの情報を見る</p>
+              </div>
+            </a>
+
+            <a href="#" class="category">
+              <span>02</span>
+              <div>
+                <h3>ギア</h3>
+                <p>ギアの情報を見る</p>
+              </div>
+            </a>
+
+            <a href="#" class="category">
+              <span>03</span>
+              <div>
+                <h3>ステージ</h3>
+                <p>ステージの情報を見る</p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <small> © Splatoon Database </small>
+      </div>
+    </footer>
+  </body>
 </html>

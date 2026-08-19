@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "splattershot",
+    "name": "スプラシューター",
+    "name_en": "SPLATTERSHOT",
+    "category": "shooter",
+    "sub": "suction_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "tentatek_splattershot",
+    "name": "スプラシューターコラボ",
+    "name_en": "TENTATEK SPLATTERSHOT",
+    "category": "shooter",
+    "sub": "splat_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "hero_shot_replica",
+    "name": "ヒーローシューターレプリカ",
+    "name_en": "HERO SHOT REPLICA",
+    "category": "shooter",
+    "sub": "suction_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "splattershot_jr",
+    "name": "わかばシューター",
+    "name_en": "SPLATTERSHOT JR.",
+    "category": "shooter",
+    "sub": "splat_bomb",
+    "special": "big_bubbler"
+  },
+  {
+    "id": "custom_splattershot_jr",
+    "name": "もみじシューター",
+    "name_en": "CUSTOM SPLATTERSHOT JR.",
+    "category": "shooter",
+    "sub": "torpedo",
+    "special": "wave_breaker"
+  },
+
+  {
+    "id": "sploosh_o_matic",
+    "name": "ボールドマーカー",
+    "name_en": "SPLOOSH-O-MATIC",
+    "category": "shooter",
+    "sub": "curling_bomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "neo_sploosh_o_matic",
+    "name": "ボールドマーカーネオ",
+    "name_en": "NEO SPLOOSH-O-MATIC",
+    "category": "shooter",
+    "sub": "squid_beakon",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "splash_o_matic",
+    "name": "シャープマーカー",
+    "name_en": "SPLASH-O-MATIC",
+    "category": "shooter",
+    "sub": "burst_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "neo_splash_o_matic",
+    "name": "シャープマーカーネオ",
+    "name_en": "NEO SPLASH-O-MATIC",
+    "category": "shooter",
+    "sub": "suction_bomb",
+    "special": "super_chump"
+  },
+  {
+    "id": "aerospray_mg",
+    "name": "プロモデラーMG",
+    "name_en": "AEROSPRAY MG",
+    "category": "shooter",
+    "sub": "sprinkler",
+    "special": "reefslider"
+  },
+  {
+    "id": "aerospray_rg",
+    "name": "プロモデラーRG",
+    "name_en": "AEROSPRAY RG",
+    "category": "shooter",
+    "sub": "sprinkler",
+    "special": "booyah_bomb"
+  },
+
+  {
+    "id": "n_zap_85",
+    "name": "N-ZAP85",
+    "name_en": "N-ZAP '85",
+    "category": "shooter",
+    "sub": "suction_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "n_zap_89",
+    "name": "N-ZAP89",
+    "name_en": "N-ZAP '89",
+    "category": "shooter",
+    "sub": "autobomb",
+    "special": "super_chump"
+  },
+  {
+    "id": "52_gal",
+    "name": ".52ガロン",
+    "name_en": ".52 GAL",
+    "category": "shooter",
+    "sub": "splash_wall",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "52_gal_deco",
+    "name": ".52ガロンデコ",
+    "name_en": ".52 GAL DECO",
+    "category": "shooter",
+    "sub": "curling_bomb",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "96_gal",
+    "name": ".96ガロン",
+    "name_en": ".96 GAL",
+    "category": "shooter",
+    "sub": "sprinkler",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "96_gal_deco",
+    "name": ".96ガロンデコ",
+    "name_en": ".96 GAL DECO",
+    "category": "shooter",
+    "sub": "splash_wall",
+    "special": "super_chump"
+  },
+
+  {
+    "id": "splattershot_pro",
+    "name": "プライムシューター",
+    "name_en": "SPLATTERSHOT PRO",
+    "category": "shooter",
+    "sub": "suction_bomb",
+    "special": "crab_tank"
+  },
+  {
+    "id": "forge_splattershot_pro",
+    "name": "プライムシューターコラボ",
+    "name_en": "FORGE SPLATTERSHOT PRO",
+    "category": "shooter",
+    "sub": "splash_wall",
+    "special": "booyah_bomb"
+  },
+  {
+    "id": "splattershot_nova",
+    "name": "スペースシューター",
+    "name_en": "SPLATTERSHOT NOVA",
+    "category": "shooter",
+    "sub": "point_sensor",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "annaki_splattershot_nova",
+    "name": "スペースシューターコラボ",
+    "name_en": "ANNAKI SPLATTERSHOT NOVA",
+    "category": "shooter",
+    "sub": "splat_bomb",
+    "special": " "
+  },
+  {
+    "id": "jet_squelcher",
+    "name": "ジェットスイーパー",
+    "name_en": "JET SQUELCHER",
+    "category": "shooter",
+    "sub": "angle_shooter",
+    "special": "ink_vac"
+  },
+  {
+    "id": "custom_jet_squelcher",
+    "name": "ジェットスイーパーカスタム",
+    "name_en": "CUSTOM JET SQUELCHER",
+    "category": "shooter",
+    "sub": "toxic_mist",
+    "special": "ink_storm"
+  },
+
+  {
+    "id": "l3_nozzlenose",
+    "name": "L3リールガン",
+    "name_en": "L-3 NOZZLENOSE",
+    "category": "shooter",
+    "sub": "curling_bomb",
+    "special": "crab_tank"
+  },
+  {
+    "id": "l3_nozzlenose_d",
+    "name": "L3リールガンD",
+    "name_en": "L-3 NOZZLENOSE D",
+    "category": "shooter",
+    "sub": "burst_bomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "h3_nozzlenose",
+    "name": "H3リールガン",
+    "name_en": "H-3 NOZZLENOSE",
+    "category": "shooter",
+    "sub": "point_sensor",
+    "special": "tacticooler"
+  },
+  {
+    "id": "h3_nozzlenose_d",
+    "name": "H3リールガンD",
+    "name_en": "H-3 NOZZLENOSE D",
+    "category": "shooter",
+    "sub": "splash_wall",
+    "special": "tacticooler"
+  },
+  {
+    "id": "squeezer",
+    "name": "ボトルガイザー",
+    "name_en": "SQUEEZER",
+    "category": "shooter",
+    "sub": "splash_wall",
+    "special": "trizooka"
+  },
+  {
+    "id": "foil_squeezer",
+    "name": "ボトルガイザーフォイル",
+    "name_en": "FOIL SQUEEZER",
+    "category": "shooter",
+    "sub": "splat_bomb",
+    "special": "super_chump"
+  },
+
+  {
+    "id": "carbon_roller",
+    "name": "カーボンローラー",
+    "name_en": "CARBON ROLLER",
+    "category": "roller",
+    "sub": "autobomb",
+    "special": "zipcaster"
+  },
+  {
+    "id": "carbon_roller_deco",
+    "name": "カーボンローラーデコ",
+    "name_en": "CARBON ROLLER DECO",
+    "category": "roller",
+    "sub": "burst_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "splat_roller",
+    "name": "スプラローラー",
+    "name_en": "SPLAT ROLLER",
+    "category": "roller",
+    "sub": "curling_bomb",
+    "special": "big_bubbler"
+  },
+  {
+    "id": "krak_on_splat_roller",
+    "name": "スプラローラーコラボ",
+    "name_en": "KRAK-ON SPLAT ROLLER",
+    "category": "roller",
+    "sub": "squid_beakon",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "flingza_roller",
+    "name": "ヴァリアブルローラー",
+    "name_en": "FLINGZA ROLLER",
+    "category": "roller",
+    "sub": "sprinkler",
+    "special": "tenta_missiles"
+  },
+  {
+    "id": "foil_flingza_roller",
+    "name": "ヴァリアブルローラーフォイル",
+    "name_en": "FOIL FLINGZA ROLLER",
+    "category": "roller",
+    "sub": "suction_bomb",
+    "special": "booyah_bomb"
+  },
+  {
+    "id": "dynamo_roller",
+    "name": "ダイナモローラー",
+    "name_en": "DYNAMO ROLLER",
+    "category": "roller",
+    "sub": "sprinkler",
+    "special": "tacticooler"
+  },
+  {
+    "id": "gold_dynamo_roller",
+    "name": "ダイナモローラーテスラ",
+    "name_en": "GOLD DYNAMO ROLLER",
+    "category": "roller",
+    "sub": "splat_bomb",
+    "special": "super_chump"
+  },
+  {
+    "id": "big_swig_roller",
+    "name": "ワイドローラー",
+    "name_en": "BIG SWIG ROLLER",
+    "category": "roller",
+    "sub": "sprinkler",
+    "special": "tacticooler"
+  },
+  {
+    "id": "big_swig_roller_express",
+    "name": "ワイドローラーコラボ",
+    "name_en": "BIG SWIG ROLLER EXPRESS",
+    "category": "roller",
+    "sub": "squid_beakon",
+    "special": "ink_vac"
+  },
+
+  {
+    "id": "classic_squiffer",
+    "name": "スクイックリンα",
+    "name_en": "CLASSIC SQUIFFER",
+    "category": "charger",
+    "sub": "point_sensor",
+    "special": "big_bubbler"
+  },
+  {
+    "id": "new_squiffer",
+    "name": "スクイックリンβ",
+    "name_en": "NEW SQUIFFER",
+    "category": "charger",
+    "sub": "splat_bomb",
+    "special": "zipcaster"
+  },
+  {
+    "id": "splat_charger",
+    "name": "スプラチャージャー",
+    "name_en": "SPLAT CHARGER",
+    "category": "charger",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "z_f_splat_charger",
+    "name": "スプラチャージャーコラボ",
+    "name_en": "Z+F SPLAT CHARGER",
+    "category": "charger",
+    "sub": "suction_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "splatscope",
+    "name": "スプラスコープ",
+    "name_en": "SPLATTERSCOPE",
+    "category": "charger",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "z_f_splatscope",
+    "name": "スプラスコープコラボ",
+    "name_en": "Z+F SPLATTERSCOPE",
+    "category": "charger",
+    "sub": "suction_bomb",
+    "special": "trizooka"
+  },
+  {
+    "id": "eliter_4k",
+    "name": "リッター4K",
+    "name_en": "E-LITER 4K",
+    "category": "charger",
+    "sub": "ink_mine",
+    "special": "wave_breaker"
+  },
+  {
+    "id": "eliter_4k_scope",
+    "name": "4Kスコープ",
+    "name_en": "E-LITER 4K SCOPE",
+    "category": "charger",
+    "sub": "ink_mine",
+    "special": "wave_breaker"
+  },
+  {
+    "id": "custom_eliter_4k",
+    "name": "リッター4Kカスタム",
+    "name_en": "CUSTOM E-LITER 4K",
+    "category": "charger",
+    "sub": "squid_beakon",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "custom_eliter_4k_scope",
+    "name": "4Kスコープカスタム",
+    "name_en": "CUSTOM E-LITER 4K SCOPE",
+    "category": "charger",
+    "sub": "squid_beakon",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "bamboozler_14_mk_i",
+    "name": "14式竹筒銃・甲",
+    "name_en": "BAMBOOZLER 14 MK I",
+    "category": "charger",
+    "sub": "splash_wall",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "goo_tuber",
+    "name": "ソイチューバー",
+    "name_en": "GOO TUBER",
+    "category": "charger",
+    "sub": "toxic_mist",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "custom_goo_tuber",
+    "name": "ソイチューバーカスタム",
+    "name_en": "CUSTOM GOO TUBER",
+    "category": "charger",
+    "sub": "squid_beakon",
+    "special": "tenta_missiles"
+  },
+  {
+    "id": "snipewriter_5h",
+    "name": "R-PEN/5H",
+    "name_en": "SNIPEWRITER 5H",
+    "category": "charger",
+    "sub": "sprinkler",
+    "special": "tacticooler"
+  },
+  {
+    "id": "snipewriter_5b",
+    "name": "R-PEN/5B",
+    "name_en": "SNIPEWRITER 5B",
+    "category": "charger",
+    "sub": "splash_wall",
+    "special": "ink_vac"
+  },
+
+  {
+    "id": "slosher",
+    "name": "バケットスロッシャー",
+    "name_en": "SLOSHER",
+    "category": "slosher",
+    "sub": "suction_bomb",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "slosher_deco",
+    "name": "バケットスロッシャーデコ",
+    "name_en": "SLOSHER DECO",
+    "category": "slosher",
+    "sub": "splat_bomb",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "tri_slosher",
+    "name": "ヒッセン",
+    "name_en": "TRI-SLOSHER",
+    "category": "slosher",
+    "sub": "point_sensor",
+    "special": "tacticooler"
+  },
+  {
+    "id": "tri_slosher_nouveau",
+    "name": "ヒッセン・ヒュー",
+    "name_en": "TRI-SLOSHER NOUVEAU",
+    "category": "slosher",
+    "sub": "splat_bomb",
+    "special": "tenta_missiles"
+  },
+  {
+    "id": "sloshing_machine",
+    "name": "スクリュースロッシャー",
+    "name_en": "SLOSHING MACHINE",
+    "category": "slosher",
+    "sub": "point_sensor",
+    "special": "booyah_bomb"
+  },
+  {
+    "id": "sloshing_machine_neo",
+    "name": "スクリュースロッシャーネオ",
+    "name_en": "SLOSHING MACHINE NEO",
+    "category": "slosher",
+    "sub": "suction_bomb",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "bloblobber",
+    "name": "オーバーフロッシャー",
+    "name_en": "BLOBLOBBER",
+    "category": "slosher",
+    "sub": "sprinkler",
+    "special": "ink_storm"
+  },
+  {
+    "id": "bloblobber_deco",
+    "name": "オーバーフロッシャーデコ",
+    "name_en": "BLOBLOBBER DECO",
+    "category": "slosher",
+    "sub": "splash_wall",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "explosher",
+    "name": "エクスプロッシャー",
+    "name_en": "EXPLOSHER",
+    "category": "slosher",
+    "sub": "sprinkler",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "custom_explosher",
+    "name": "エクスプロッシャーカスタム",
+    "name_en": "CUSTOM EXPLOSHER",
+    "category": "slosher",
+    "sub": "point_sensor",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "dread_wringer",
+    "name": "モップリン",
+    "name_en": "DREAD WRINGER",
+    "category": "slosher",
+    "sub": "sprinkler",
+    "special": "super_chump"
+  },
+  {
+    "id": "dread_wringer_d",
+    "name": "モップリンD",
+    "name_en": "DREAD WRINGER D",
+    "category": "slosher",
+    "sub": "splat_bomb",
+    "special": "tenta_missiles"
+  },
+
+  {
+    "id": "mini_splatling",
+    "name": "スプラスピナー",
+    "name_en": "MINI SPLATLING",
+    "category": "splatling",
+    "sub": "fizzy_bomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "zink_mini_splatling",
+    "name": "スプラスピナーコラボ",
+    "name_en": "ZINK MINI SPLATLING",
+    "category": "splatling",
+    "sub": "toxic_mist",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "heavy_splatling",
+    "name": "バレルスピナー",
+    "name_en": "HEAVY SPLATLING",
+    "category": "splatling",
+    "sub": "sprinkler",
+    "special": "wave_breaker"
+  },
+  {
+    "id": "heavy_splatling_deco",
+    "name": "バレルスピナーデコ",
+    "name_en": "HEAVY SPLATLING DECO",
+    "category": "splatling",
+    "sub": "point_sensor",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "nautilus_47",
+    "name": "ノーチラス47",
+    "name_en": "NAUTILUS 47",
+    "category": "splatling",
+    "sub": "point_sensor",
+    "special": "ink_vac"
+  },
+  {
+    "id": "nautilus_79",
+    "name": "ノーチラス79",
+    "name_en": "NAUTILUS 79",
+    "category": "splatling",
+    "sub": "suction_bomb",
+    "special": "inkjet"
+  },
+  {
+    "id": "ballpoint_splatling",
+    "name": "クーゲルシュライバー",
+    "name_en": "BALLPOINT SPLATLING",
+    "category": "splatling",
+    "sub": "fizzy_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "ballpoint_splatling_nouveau",
+    "name": "クーゲルシュライバー・ヒュー",
+    "name_en": "BALLPOINT SPLATLING NOUVEAU",
+    "category": "splatling",
+    "sub": "toxic_mist",
+    "special": "inkjet"
+  },
+  {
+    "id": "hydra_splatling",
+    "name": "ハイドラント",
+    "name_en": "HYDRA SPLATLING",
+    "category": "splatling",
+    "sub": "autobomb",
+    "special": "booyah_bomb"
+  },
+  {
+    "id": "custom_hydra_splatling",
+    "name": "ハイドラントカスタム",
+    "name_en": "CUSTOM HYDRA SPLATLING",
+    "category": "splatling",
+    "sub": "sprinkler",
+    "special": "super_chump"
+  },
+  {
+    "id": "heavy_edit_splatling",
+    "name": "イグザミナー",
+    "name_en": "HEAVY EDIT SPLATLING",
+    "category": "splatling",
+    "sub": "curling_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "heavy_edit_splatling_nouveau",
+    "name": "イグザミナー・ヒュー",
+    "name_en": "HEAVY EDIT SPLATLING NOUVEAU",
+    "category": "splatling",
+    "sub": "suction_bomb",
+    "special": "kraken_royale"
+  },
+
+  {
+    "id": "dapple_dualies",
+    "name": "スパッタリー",
+    "name_en": "DAPPLE DUALIES",
+    "category": "dualies",
+    "sub": "splash_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "dapple_dualies_nouveau",
+    "name": "スパッタリー・ヒュー",
+    "name_en": "DAPPLE DUALIES NOUVEAU",
+    "category": "dualies",
+    "sub": "squid_beakon",
+    "special": "tacticooler"
+  },
+  {
+    "id": "splat_dualies",
+    "name": "スプラマニューバー",
+    "name_en": "SPLAT DUALIES",
+    "category": "dualies",
+    "sub": "burst_bomb",
+    "special": "crab_tank"
+  },
+  {
+    "id": "enperry_splat_dualies",
+    "name": "スプラマニューバーコラボ",
+    "name_en": "ENPERRY SPLAT DUALIES",
+    "category": "dualies",
+    "sub": "splat_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "glooga_dualies",
+    "name": "ケルビン525",
+    "name_en": "GLOOGA DUALIES",
+    "category": "dualies",
+    "sub": "sprinkler",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "glooga_dualies_deco",
+    "name": "ケルビン525デコ",
+    "name_en": "GLOOGA DUALIES DECO",
+    "category": "dualies",
+    "sub": "splash_wall",
+    "special": "super_chump"
+  },
+  {
+    "id": "dualie_squelchers",
+    "name": "デュアルスイーパー",
+    "name_en": "DUALIE SQUELCHERS",
+    "category": "dualies",
+    "sub": "point_sensor",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "custom_dualie_squelchers",
+    "name": "デュアルスイーパーカスタム",
+    "name_en": "CUSTOM DUALIE SQUELCHERS",
+    "category": "dualies",
+    "sub": "splat_bomb",
+    "special": "tacticooler"
+  },
+  {
+    "id": "dark_tetra_dualies",
+    "name": "クアッドホッパーブラック",
+    "name_en": "DARK TETRA DUALIES",
+    "category": "dualies",
+    "sub": "autobomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "light_tetra_dualies",
+    "name": "クアッドホッパーホワイト",
+    "name_en": "LIGHT TETRA DUALIES",
+    "category": "dualies",
+    "sub": "sprinkler",
+    "special": "splashdown"
+  },
+  {
+    "id": "douser_dualies_ff",
+    "name": "ガエンFF",
+    "name_en": "DOUSER DUALIES FF",
+    "category": "dualies",
+    "sub": "point_sensor",
+    "special": "inkjet"
+  },
+  {
+    "id": "custom_douser_dualies_ff",
+    "name": "ガエンFFカスタム",
+    "name_en": "CUSTOM DOUSER DUALIES FF",
+    "category": "dualies",
+    "sub": "suction_bomb",
+    "special": "inkjet"
+  },
+
+  {
+    "id": "splat_brella",
+    "name": "パラシェルター",
+    "name_en": "SPLAT BRELLA",
+    "category": "brella",
+    "sub": "sprinkler",
+    "special": "ink_vac"
+  },
+  {
+    "id": "sorella_brella",
+    "name": "パラシェルターソレーラ",
+    "name_en": "SORELLA BRELLA",
+    "category": "brella",
+    "sub": "autobomb",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "tenta_brella",
+    "name": "キャンピングシェルター",
+    "name_en": "TENTA BRELLA",
+    "category": "brella",
+    "sub": "squid_beakon",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "tenta_sorella_brella",
+    "name": "キャンピングシェルターソレーラ",
+    "name_en": "TENTA SORELLA BRELLA",
+    "category": "brella",
+    "sub": "splash_wall",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "undercover_brella",
+    "name": "スパイガジェット",
+    "name_en": "UNDERCOVER BRELLA",
+    "category": "brella",
+    "sub": "squid_beakon",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "undercover_sorella_brella",
+    "name": "スパイガジェットソレーラ",
+    "name_en": "UNDERCOVER SORELLA BRELLA",
+    "category": "brella",
+    "sub": "splash_bomb",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "recycled_brella_24_mk_i",
+    "name": "24式張替傘・甲",
+    "name_en": "RECYCLED BRELLA 24 MK I",
+    "category": "brella",
+    "sub": "splash_wall",
+    "special": "ink_storm"
+  },
+  {
+    "id": "recycled_brella_24_mk_ii",
+    "name": "24式張替傘・乙",
+    "name_en": "RECYCLED BRELLA 24 MK II",
+    "category": "brella",
+    "sub": "burst_bomb",
+    "special": "super_chump"
+  },
+
+  {
+    "id": "luna_blaster",
+    "name": "ノヴァブラスター",
+    "name_en": "LUNA BLASTER",
+    "category": "blaster",
+    "sub": "splat_bomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "luna_blaster_neo",
+    "name": "ノヴァブラスターネオ",
+    "name_en": "LUNA BLASTER NEO",
+    "category": "blaster",
+    "sub": "ink_mine",
+    "special": "tenta_missiles"
+  },
+  {
+    "id": "blaster",
+    "name": "ホットブラスター",
+    "name_en": "BLASTER",
+    "category": "blaster",
+    "sub": "splash_bomb",
+    "special": "zipcaster"
+  },
+  {
+    "id": "custom_blaster",
+    "name": "ホットブラスターカスタム",
+    "name_en": "CUSTOM BLASTER",
+    "category": "blaster",
+    "sub": "point_sensor",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "range_blaster",
+    "name": "ロングブラスター",
+    "name_en": "RANGE BLASTER",
+    "category": "blaster",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "custom_range_blaster",
+    "name": "ロングブラスターカスタム",
+    "name_en": "CUSTOM RANGE BLASTER",
+    "category": "blaster",
+    "sub": "splash_wall",
+    "special": "kraken_royale"
+  },
+  {
+    "id": "clash_blaster",
+    "name": "クラッシュブラスター",
+    "name_en": "CLASH BLASTER",
+    "category": "blaster",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "clash_blaster_neo",
+    "name": "クラッシュブラスターネオ",
+    "name_en": "CLASH BLASTER NEO",
+    "category": "blaster",
+    "sub": "curling_bomb",
+    "special": "super_chump"
+  },
+  {
+    "id": "rapid_blaster",
+    "name": "ラピッドブラスター",
+    "name_en": "RAPID BLASTER",
+    "category": "blaster",
+    "sub": "ink_mine",
+    "special": "triple_inkstrike"
+  },
+  {
+    "id": "rapid_blaster_deco",
+    "name": "ラピッドブラスターデコ",
+    "name_en": "RAPID BLASTER DECO",
+    "category": "blaster",
+    "sub": "torpedo",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "rapid_blaster_pro",
+    "name": "Rブラスターエリート",
+    "name_en": "RAPID BLASTER PRO",
+    "category": "blaster",
+    "sub": "ink_mine",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "rapid_blaster_pro_deco",
+    "name": "Rブラスターエリートデコ",
+    "name_en": "RAPID BLASTER PRO DECO",
+    "category": "blaster",
+    "sub": "splash_wall",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "s_blast_92",
+    "name": "S-BLAST92",
+    "name_en": "S-BLAST '92",
+    "category": "blaster",
+    "sub": "sprinkler",
+    "special": "splashdown"
+  },
+  {
+    "id": "s_blast_91",
+    "name": "S-BLAST91",
+    "name_en": "S-BLAST '91",
+    "category": "blaster",
+    "sub": "splash_wall",
+    "special": "booyah_bomb"
+  },
+
+  {
+    "id": "inkbrush",
+    "name": "パブロ",
+    "name_en": "INKBRUSH",
+    "category": "brush",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "inkbrush_nouveau",
+    "name": "パブロ・ヒュー",
+    "name_en": "INKBRUSH NOUVEAU",
+    "category": "brush",
+    "sub": "splat_bomb",
+    "special": "ultra_stamp"
+  },
+  {
+    "id": "octobrush",
+    "name": "ホクサイ",
+    "name_en": "OCTOBRUSH",
+    "category": "brush",
+    "sub": "splat_bomb",
+    "special": "zipcaster"
+  },
+  {
+    "id": "octobrush_nouveau",
+    "name": "ホクサイ・ヒュー",
+    "name_en": "OCTOBRUSH NOUVEAU",
+    "category": "brush",
+    "sub": "autobomb",
+    "special": "inkjet"
+  },
+  {
+    "id": "painbrush",
+    "name": "フィンセント",
+    "name_en": "PAINTBRUSH",
+    "category": "brush",
+    "sub": "curling_bomb",
+    "special": "ink_vac"
+  },
+  {
+    "id": "painbrush_nouveau",
+    "name": "フィンセント・ヒュー",
+    "name_en": "PAINTBRUSH NOUVEAU",
+    "category": "brush",
+    "sub": "splash_wall",
+    "special": "tenta_missiles"
+  },
+
+  {
+    "id": "tri_stringer",
+    "name": "トライストリンガー",
+    "name_en": "TRI-STRINGER",
+    "category": "stringer",
+    "sub": "toxic_mist",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "inkline_tri_stringer",
+    "name": "トライストリンガーコラボ",
+    "name_en": "INKLINE TRI-STRINGER",
+    "category": "stringer",
+    "sub": "sprinkler",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "reef_lux_450",
+    "name": "LACT-450",
+    "name_en": "REEF-LUX 450",
+    "category": "stringer",
+    "sub": "curling_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "reef_lux_450_deco",
+    "name": "LACT-450デコ",
+    "name_en": "REEF-LUX 450 DECO",
+    "category": "stringer",
+    "sub": "splash_wall",
+    "special": "super_chump"
+  },
+  {
+    "id": "wellstring_v",
+    "name": "フルイドⅤ",
+    "name_en": "WELLSTRING V",
+    "category": "stringer",
+    "sub": "splat_bomb",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "custom_wellstring_v",
+    "name": "フルイドⅤカスタム",
+    "name_en": "CUSTOM WELLSTRING V",
+    "category": "stringer",
+    "sub": "sprinkler",
+    "special": "super_chump"
+  },
+
+  {
+    "id": "splatana_wiper",
+    "name": "ドライブワイパー",
+    "name_en": "SPLATANA WIPER",
+    "category": "wiper",
+    "sub": "torpedo",
+    "special": "tenta_missiles"
+  },
+  {
+    "id": "splatana_wiper_deco",
+    "name": "ドライブワイパーデコ",
+    "name_en": "SPLATANA WIPER DECO",
+    "category": "wiper",
+    "sub": "squid_beakon",
+    "special": "tacticooler"
+  },
+  {
+    "id": "splatana_stamper",
+    "name": "ジムワイパー",
+    "name_en": "SPLATANA STAMPER",
+    "category": "wiper",
+    "sub": "burst_bomb",
+    "special": "zipcaster"
+  },
+  {
+    "id": "neo_splatana_stamper",
+    "name": "ジムワイパー・ヒュー",
+    "name_en": "NEO SPLATANA STAMPER",
+    "category": "wiper",
+    "sub": "splash_wall",
+    "special": "tacticooler"
+  },
+  {
+    "id": "mint_decavitator",
+    "name": "デンタルワイパーミント",
+    "name_en": "MINT DECAVITATOR",
+    "category": "wiper",
+    "sub": "squid_beakon",
+    "special": "killer_wail_5_1"
+  },
+  {
+    "id": "charcoal_decavitator",
+    "name": "デンタルワイパースミ",
+    "name_en": "CHARCOAL DECAVITATOR",
+    "category": "wiper",
+    "sub": "suction_bomb",
+    "special": "kraken_royale"
+  }
+]

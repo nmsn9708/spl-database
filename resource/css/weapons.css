@@ -1,0 +1,517 @@
+body {
+  background: #181818;
+  color: #f2f2f2;
+}
+
+/* =========================
+   Weapon Page
+========================= */
+
+.page-header {
+  padding: 20px 0;
+  background: #1d1d1d;
+  border-bottom: 1px solid #333;
+}
+
+.page-label {
+  margin: 0 0 16px;
+
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: #888;
+}
+
+.page-header h1 {
+  margin: 0;
+
+  font-size: clamp(28px, 8vw, 48px);
+  line-height: 1;
+  letter-spacing: -0.04em;
+}
+
+/* =========================
+   Weapon Section
+========================= */
+
+.weapon-section {
+  padding: 64px 0 100px;
+  background: #181818;
+}
+
+.section-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+
+  margin-bottom: 32px;
+}
+
+.section-header h2 {
+  margin: 0;
+
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.section-header p {
+  margin: 6px 0 0;
+
+  font-size: 12px;
+  color: #777;
+}
+
+.weapon-count {
+  margin-left: 12px;
+  margin-top: 12px;
+  font-size: 12px;
+  text-align: right;
+  color: #777;
+}
+
+/* =========================
+   Tabs
+========================= */
+
+.weapon-tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  margin-bottom: 32px;
+
+  border-bottom: 1px solid #333;
+}
+
+.weapon-tab {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  padding: 16px 20px;
+
+  background: transparent;
+  border: 0;
+
+  color: #666;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    background 0.2s ease;
+}
+
+.weapon-tab span {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.weapon-tab small {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.weapon-tab:hover {
+  color: #aaa;
+}
+
+.weapon-tab.active {
+  color: #f2f2f2;
+}
+
+.weapon-tab.active::after {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+
+  height: 2px;
+
+  background: #f2f2f2;
+}
+
+/* =========================
+   Tab Panel
+========================= */
+
+.weapon-panel {
+  display: none;
+}
+
+.weapon-panel.active {
+  display: block;
+}
+
+/* =========================
+   Tools
+========================= */
+
+.weapon-tools {
+  margin-bottom: 32px;
+}
+
+.search-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  margin-bottom: 16px;
+}
+
+.weapon-tools .search {
+  display: flex;
+
+  width: 320px;
+  max-width: 100%;
+}
+
+.weapon-tools .search input {
+  background: #222;
+  color: #f2f2f2;
+  height: 40px;
+  padding: 0 12px;
+
+  border-color: #3a3a3a;
+}
+
+.weapon-tools .search input:focus {
+  outline: none;
+  border-color: #666;
+}
+
+.weapon-tools .search button {
+  height: 40px;
+  padding: 0 14px;
+  background: #f2f2f2;
+  color: #181818;
+}
+
+/* =========================
+   Category List
+========================= */
+
+.category-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+
+  margin-bottom: 20px;
+}
+
+.category-button {
+  padding: 8px 14px;
+
+  background: #222;
+  border: 1px solid #333;
+
+  color: #888;
+
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+
+  cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    background 0.2s ease;
+}
+
+.category-button:hover {
+  color: #ddd;
+  border-color: #555;
+}
+
+.category-button.active {
+  background: #f2f2f2;
+  border-color: #f2f2f2;
+
+  color: #181818;
+}
+
+/* =========================
+   Weapon List
+========================= */
+
+.weapon-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+/* =========================
+   Weapon Card
+========================= */
+
+.weapon-card {
+  display: block;
+
+  overflow: hidden;
+
+  background: #222;
+  border: 1px solid #333;
+
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.weapon-card:hover {
+  transform: translateY(-3px);
+  border-color: #555;
+}
+
+/* =========================
+   Weapon Info
+========================= */
+
+.weapon-info {
+  padding: 20px;
+}
+
+.weapon-type {
+  display: block;
+
+  margin-top: 6px;
+
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+
+  color: #777;
+}
+
+.weapon-info h3 {
+  margin: 0;
+
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.weapon-info p {
+  margin: 6px 0 0;
+
+  font-size: 12px;
+  color: #777;
+}
+
+/* =========================
+   Responsive
+========================= */
+
+@media (max-width: 900px) {
+  .weapon-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* =========================
+   Mobile
+========================= */
+
+@media (max-width: 600px) {
+  /* -------------------------
+       Container
+    ------------------------- */
+
+  .container {
+    width: calc(100% - 24px);
+  }
+
+  /* -------------------------
+       Page Header
+    ------------------------- */
+
+  .page-header {
+    padding: 28px 0;
+  }
+
+  .page-label {
+    margin-bottom: 12px;
+
+    font-size: 10px;
+    letter-spacing: 0.08em;
+  }
+
+  .page-header h1 {
+    font-size: 36px;
+  }
+
+  /* -------------------------
+       Weapon Section
+    ------------------------- */
+
+  .weapon-section {
+    padding: 36px 0 64px;
+  }
+
+  /* -------------------------
+       Section Header
+    ------------------------- */
+
+  .section-header {
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-bottom: 24px;
+    gap: 4px;
+  }
+
+  .section-header h2 {
+    font-size: 24px;
+  }
+
+  .section-header p {
+    margin-top: 4px;
+  }
+
+  /* -------------------------
+       Tabs
+    ------------------------- */
+
+  .weapon-tabs {
+    grid-template-columns: repeat(3, 1fr);
+
+    margin-bottom: 24px;
+  }
+
+  .weapon-tab {
+    flex-direction: column;
+
+    gap: 3px;
+    padding: 12px 4px;
+  }
+
+  .weapon-tab span {
+    font-size: 13px;
+  }
+
+  .weapon-tab small {
+    font-size: 8px;
+    letter-spacing: 0.08em;
+  }
+
+  /* -------------------------
+       Tools
+    ------------------------- */
+
+  .weapon-tools {
+    margin-bottom: 24px;
+  }
+
+  /* 検索欄 */
+  .search-row {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .weapon-tools .search {
+    display: flex;
+
+    width: 100%;
+    max-width: none;
+  }
+
+  .weapon-tools .search input {
+    min-width: 0;
+    flex: 1;
+
+    height: 38px;
+    padding: 0 10px;
+
+    font-size: 13px;
+  }
+
+  .weapon-tools .search button {
+    flex-shrink: 0;
+
+    height: 38px;
+    padding: 0 12px;
+
+    font-size: 12px;
+  }
+
+  /* -------------------------
+       Weapon Count
+    ------------------------- */
+
+  .weapon-count {
+    flex-shrink: 0;
+
+    margin: 0;
+
+    font-size: 10px;
+    white-space: nowrap;
+  }
+
+  /* -------------------------
+       Category
+    ------------------------- */
+
+  .category-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 6px;
+
+    margin-bottom: 16px;
+  }
+
+  .category-button {
+    padding: 7px 10px;
+
+    font-size: 10px;
+    letter-spacing: 0.04em;
+  }
+
+  /* -------------------------
+       Weapon List
+    ------------------------- */
+
+  .weapon-list {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  /* -------------------------
+       Weapon Card
+    ------------------------- */
+
+  .weapon-card {
+    min-height: 0;
+  }
+
+  .weapon-info {
+    padding: 14px 16px;
+  }
+
+  .weapon-info h3 {
+    font-size: 16px;
+  }
+
+  .weapon-type {
+    margin-top: 4px;
+
+    font-size: 9px;
+  }
+
+  /* -------------------------
+       Footer
+    ------------------------- */
+
+  .footer {
+    padding: 24px 0;
+  }
+}

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>ブキ - Splatoon Database</title>
+
+    <link rel="stylesheet" href="../css/base.css" />
+    <link rel="stylesheet" href="../css/weapons.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="container">
+        <a href="../../index.html" class="logo"> Splatoon Database </a>
+
+        <nav class="nav">
+          <a href="weapons.html">ブキ</a>
+          <a href="#">ギア</a>
+          <a href="#">ステージ</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-header">
+        <div class="container">
+          <p class="page-label">
+            <a href="../../index.html">HOME</a>
+            /
+            <a href="weapons.html">WEAPONS</a>
+          </p>
+
+          <h1>ブキ</h1>
+        </div>
+      </section>
+
+      <section class="weapon-section">
+        <div class="container">
+          <div class="section-header">
+            <div>
+              <h2>ブキ一覧</h2>
+              <p>All Weapons</p>
+            </div>
+          </div>
+
+          <!-- Tabs -->
+          <div class="weapon-tabs" role="tablist">
+            <button class="weapon-tab active" type="button" data-tab="main">
+              <span>メイン</span>
+              <small>MAIN</small>
+            </button>
+
+            <button class="weapon-tab" type="button" data-tab="sub">
+              <span>サブ</span>
+              <small>SUB</small>
+            </button>
+
+            <button class="weapon-tab" type="button" data-tab="special">
+              <span>スペシャル</span>
+              <small>SPECIAL</small>
+            </button>
+          </div>
+
+          <!-- =========================
+                     Main
+                ========================= -->
+
+          <div class="weapon-panel active" data-panel="main">
+            <div class="weapon-tools">
+              <div class="search-row">
+                <div class="search">
+                  <input type="search" id="weapon-search" placeholder="ブキを検索..." />
+
+                  <button type="button" id="search-button">検索</button>
+                </div>
+
+                <span class="weapon-count" id="weapon-count"> 0 Weapons </span>
+              </div>
+              <!-- メインウェポンのカテゴリ表示 -->
+              <div class="category-list" id="category-list"></div>
+              <br />
+              <div class="weapon-list" id="weapon-list"></div>
+            </div>
+          </div>
+
+          <!-- =========================
+                     Sub Content
+                ========================= -->
+
+          <div class="weapon-panel" data-panel="sub">
+            <div class="weapon-tools">
+              <div class="search">
+                <input type="search" id="sub-search" placeholder="サブウェポンを検索..." />
+
+                <button type="button">検索</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- =========================
+                     Special Content
+                ========================= -->
+
+          <div class="weapon-panel" data-panel="special">
+            <div class="weapon-tools">
+              <div class="search">
+                <input type="search" id="special-search" placeholder="スペシャルを検索..." />
+
+                <button type="button">検索</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <small> © Splatoon Database </small>
+      </div>
+    </footer>
+
+    <script src="../js/weapons.js"></script>
+  </body>
+</html>

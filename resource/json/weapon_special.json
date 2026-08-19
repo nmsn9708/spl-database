@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ink_storm",
+    "name": "アメフラシ",
+    "name_en": "INK STORM"
+  },
+  {
+    "id": "trizooka",
+    "name": "ウルトラショット",
+    "name_en": "TRIZOOKA"
+  },
+  {
+    "id": "triple_splashdown",
+    "name": "ウルトラチャクチ",
+    "name_en": "TRIPLE SPLASHDOWN"
+  },
+  {
+    "id": "ultra_stamp",
+    "name": "ウルトラハンコ",
+    "name_en": "ULTRA STAMP"
+  },
+  {
+    "id": "tacticooler",
+    "name": "エナジースタンド",
+    "name_en": "TACTICOOLER"
+  },
+  {
+    "id": "crab_tank",
+    "name": "カニタンク",
+    "name_en": "CRAB TANK"
+  },
+  {
+    "id": "ink_vac",
+    "name": "キューインキ",
+    "name_en": "INK VAC"
+  },
+  {
+    "id": "big_bubbler",
+    "name": "グレートバリア",
+    "name_en": "BIG BUBBLER"
+  },
+  {
+    "id": "reefslider",
+    "name": "サメライド",
+    "name_en": "REEFSLIDER"
+  },
+  {
+    "id": "inkjet",
+    "name": "ジェットパック",
+    "name_en": "INKJET"
+  },
+  {
+    "id": "zipcaster",
+    "name": "ショクワンダー",
+    "name_en": "ZIPCASTER"
+  },
+  {
+    "id": "splattercolor_screen",
+    "name": "スミナガシート",
+    "name_en": "SPLATTERCOLOR SCREEN"
+  },
+  {
+    "id": "triple_inkstrike",
+    "name": "トリプルトルネード",
+    "name_en": "TRIPLE INKSTRIKE"
+  },
+  {
+    "id": "kraken_royale",
+    "name": "テイオウイカ",
+    "name_en": "KRAKEN ROYALE"
+  },
+  {
+    "id": "super_chump",
+    "name": "デコイチラシ",
+    "name_en": "SUPER CHUMP"
+  },
+  {
+    "id": "booyah_bomb",
+    "name": "ナイスダマ",
+    "name_en": "BOOYAH BOMB"
+  },
+  {
+    "id": "wave_breaker",
+    "name": "ホップソナー",
+    "name_en": "WAVE BREAKER"
+  },
+  {
+    "id": "killer_wail_5_1",
+    "name": "メガホンレーザー5.1ch",
+    "name_en": "KILLER WAIL 5.1"
+  },
+  {
+    "id": "tenta_missiles",
+    "name": "マルチミサイル",
+    "name_en": "TENTA MISSILES"
+  }
+]

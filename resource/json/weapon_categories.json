@@ -1,0 +1,62 @@
+[
+  {
+    "id": "all",
+    "name": "すべて",
+    "name_en": "ALL"
+  },
+  {
+    "id": "shooter",
+    "name": "シューター",
+    "name_en": "SHOOTER"
+  },
+  {
+    "id": "roller",
+    "name": "ローラー",
+    "name_en": "ROLLER"
+  },
+  {
+    "id": "charger",
+    "name": "チャージャー",
+    "name_en": "CHARGER"
+  },
+  {
+    "id": "slosher",
+    "name": "スロッシャー",
+    "name_en": "SLOSHER"
+  },
+  {
+    "id": "splatling",
+    "name": "スピナー",
+    "name_en": "SPLATLING"
+  },
+  {
+    "id": "dualies",
+    "name": "マニューバー",
+    "name_en": "DUALIES"
+  },
+  {
+    "id": "brella",
+    "name": "シェルター",
+    "name_en": "BRELLA"
+  },
+  {
+    "id": "blaster",
+    "name": "ブラスター",
+    "name_en": "BLASTER"
+  },
+  {
+    "id": "brush",
+    "name": "フデ",
+    "name_en": "BRUSH"
+  },
+  {
+    "id": "stringer",
+    "name": "ストリンガー",
+    "name_en": "STRINGER"
+  },
+  {
+    "id": "wiper",
+    "name": "ワイパー",
+    "name_en": "WIPER"
+  }
+]
